@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.quartz.Job"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="org.quartz.JobBuilder"/>
+    <fullyQualifiedTypeName name="org.quartz.CronScheduleBuilder"/>
+    <fullyQualifiedTypeName name="org.quartz.impl.StdSchedulerFactory"/>
+    <fullyQualifiedTypeName name="org.quartz.SchedulerFactory"/>
+    <fullyQualifiedTypeName name="p1.Test"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

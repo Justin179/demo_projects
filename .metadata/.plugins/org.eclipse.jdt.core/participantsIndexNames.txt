@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+D:\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\133173112.index
+\Stray\src\main\java
+D:\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2665502260.index
+\TestTomcat\src\main\java
+D:\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2233745313.index
+\StrayDogs\src\main\java
+D:\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1602905851.index
+\WebDemo\src\main\java
